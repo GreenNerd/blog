@@ -6,10 +6,10 @@ plugns:
 exclude:
   - "/vendor/"
 
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: GreenNerd
+subtitle: ""
+email: IDCjaja@gmail.com
+name: GreenNerd
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
